@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/HELP.md
+/target/
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/target/surefire-reports/TEST-com.zndi.jokeschuck.JokesChuckApplicationTests.xml
+/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml
+/.idea/
